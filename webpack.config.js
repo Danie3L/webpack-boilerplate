@@ -41,7 +41,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Webpack app",
+      title: "Daniel Żukowski- portfolio",
       filename: "index.html",
       template: "src/template.html",
     }),
